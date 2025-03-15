@@ -1,4 +1,4 @@
-# Master’s Thesis: **Sustainable Digital Education Technologies in Universities: A multi-dimensional framework**
+# Master’s Thesis -- **Sustainable Digital Education Technologies in Universities: A multi-dimensional framework**
 
 ## Author
 **Sebastiano Cassol**  
@@ -47,7 +47,7 @@ To compile the thesis from LaTeX:
 ```bash
 pdflatex cassol_sebastiano_computer_science_2023_2024.tex
 ```
-Ensure you have LaTeX installed (e.g., TeX Live, MiKTeX) along with `biber` for bibliography management.
+Ensure you have LaTeX installed (e.g., TeX Live, MiKTeX).
 
 ---
 
