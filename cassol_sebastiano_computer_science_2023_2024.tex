@@ -47,7 +47,7 @@
   \pagenumbering{gobble} 
   \input{front}
 
-  \cleardoublepage
+  \clearpage
  
 % Thanks/ Acknowledgements section
   \input{acknowledgements}
@@ -96,8 +96,6 @@
       % summary / abstract
       \input{abstract}
       \newpage
-      \ % The empty page
-      \newpage
 
 %% Note
 %% The first chapter of the final thesis must contain a summary of a 
@@ -114,22 +112,14 @@
       %
       \input{chapter1}
       \newpage
-      \ % The empty page
-      \newpage
       
       \input{chapter2}
-      \newpage
-      \ % The empty page
       \newpage
       
       \input{chapter3}
       \newpage
-      \ % The empty page
-      \newpage
       
       \input{chapter4}
-      \newpage
-      \ % The empty page
       \newpage
       
       \input{chapter5}
@@ -148,10 +138,6 @@
     % alphabetical order of authors
     \bibliographystyle{plain}
     \bibliography{bib/bibliography}
-    
-    \newpage
-    \ % The empty page
-    \newpage
 
 %% Note
 %% In the bibliography, all the sources consulted for the dissertation 
