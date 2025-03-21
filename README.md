@@ -35,9 +35,10 @@ Alternatively, you can view it directly within GitHub by opening the following l
 ├── 📄 README.md  # Project documentation (this file)
 ├── 📜 cassol_sebastiano_computer_science_2023_2024.tex  # LaTeX source file
 ├── 📄 out/229318_Cassol_Sebastiano_master_thesis_digital.pdf  # Compiled PDF file
-├── 📂 img/  # Image assets used in the thesis
 ├── 📂 attachments/  # Pdf assets used in the thesis
-└── 📂 bib/  # Reference materials and .bib files
+├── 📂 bib/  # Reference materials and .bib files
+├── 📂 img/  # Image assets used in the thesis
+└── 📂 presentation/  # Powerpoint and pdf of the presentation
 ```
 
 ---
